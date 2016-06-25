@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TareaContacto</string>
+    <string name="tip_nombre">Nombre completo:</string>
+    <string name="tip_fecha">Fecha nacimiento:</string>
+    <string name="fechaInicial">01/01/1980</string>
+    <string name="tip_calendario">Calendario</string>
+    <string name="tip_telefono">Teléfono:</string>
+    <string name="tip_email">E-mail:</string>
+    <string name="tip_descripcion">Descripción:</string>
+    <string name="editar">Editar datos</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="confirmar">Confirmar datos</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+    <string name="pfecha">fecha</string>
+</resources>
